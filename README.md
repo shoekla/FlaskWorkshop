@@ -21,7 +21,7 @@ If you see python 2.7 then you have python move on to "Installing Everything Els
 If you see python 2.7 then you have python move on to "Installing Everything Else"
 
 Expected output (Don't Worry about the .10)
-![screenshot of 2.7.10](public/img2.7.10)
+![screenshot of 2.7.10](public/img2.7.10.png)
 
 Python 2.7 Install link: https://www.python.org/downloads/release/python-2713/
 - Step 1: Find Correct OS Download File (MAC, WINDOWS, etc.)
