@@ -42,6 +42,7 @@ Open up "Terminal" and execute following commands
 $ cd Desktop # or which ever Directory you placed it in
 $ cd FlaskWorkshop/Installation/
 $ chmod +x ./installNecessities.sh
+$ ./installNecessities.sh
 ```
 Now try executing your "installNecessities" file
 If problem persists please contact one of the organizers immediately.
