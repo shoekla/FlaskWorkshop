@@ -15,7 +15,7 @@ Let's first install python 2.7 and then you can leave the rest up to us.
 
 **Installing Python**
 Let's First Check if we already have python.
-- For mac/linux open "terminal", type python and press ENTER.
+- For mac/linux open "terminal", type `python` and press ENTER.
 If you see python 2.7 then you have python move on to "Installing Everything Else"
 - For windows open "Command Prompt", type python and press ENTER.
 If you see python 2.7 then you have python move on to "Installing Everything Else"
@@ -30,12 +30,12 @@ Python 2.7 Install link: https://www.python.org/downloads/release/python-2713/
 
 
 **Installing Everything Else**
-This workshop reuires pip, flask, requests, bs4, and BeatifulSoup.
+This workshop requires pip, flask, requests, bs4, and BeautifulSoup.
 We have gone ahead and taken care of the download process, just follow these steps:
-- Step 1: Download or clone this git repository (For simplicty we ask to put it in your Desktop folder)
+- Step 1: Download or clone this git repository (For simplicity we ask to put it in your Desktop folder)
 - Step 2:
-For Windows: Exectue the File "installNecessities.bat" (Just Double Click the file)
-For Mac/Linux: Execute the File "installNecessities.sh" (Just Double Click the file)
+For Windows: Execute the File `installNecessities.bat` (Just Double Click the file)
+For Mac/Linux: Execute the File `installNecessities.sh` (Just Double Click the file)
 -Step 3: If you do not see anything running do the following
 Open up "Terminal" and execute following commands
 ```sh
@@ -44,7 +44,7 @@ $ cd FlaskWorkshop/Installation/
 $ chmod +x ./installNecessities.sh
 $ ./installNecessities.sh
 ```
-Now try executing your "installNecessities" file
+Now try executing your `installNecessities` file
 If problem persists please contact one of the organizers immediately.
 - Step 4: while running the "installNecessities" file Observe the following
 After the line that prints out "TESTING INSTALLATION ---------------------------"
