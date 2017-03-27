@@ -1,6 +1,6 @@
 # FLASK Workshop (Create Your Own Web App using FLASK)
 
-Organisers: Abir Shukla, Pranav Vasudha, Zach Rich, and of course Purdue Hackers
+Organizers: Abir Shukla, Pranav Vasudha, Zach Rich, and of course Purdue Hackers
 
 Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. It makes it super easy to connect your python (backend) to your HTML (frontend).
 Some Projects of FLASK:
@@ -21,7 +21,7 @@ If you see python 2.7 then you have python move on to "Installing Everything Els
 If you see python 2.7 then you have python move on to "Installing Everything Else"
 
 Expected output (Don't Worry about the .10)
-{{place Image here}}
+![screenshot of 2.7.10](public/img2.7.10)
 
 Python 2.7 Install link: https://www.python.org/downloads/release/python-2713/
 - Step 1: Find Correct OS Download File (MAC, WINDOWS, etc.)
@@ -33,7 +33,7 @@ Python 2.7 Install link: https://www.python.org/downloads/release/python-2713/
 This workshop reuires pip, flask, requests, bs4, and BeatifulSoup.
 We have gone ahead and taken care of the download process, just follow these steps:
 - Step 1: Download or clone this git repository (For simplicty we ask to put it in your Desktop folder)
-- Step 2: 
+- Step 2:
 For Windows: Exectue the File "installNecessities.bat" (Just Double Click the file)
 For Mac/Linux: Execute the File "installNecessities.sh" (Just Double Click the file)
 -Step 3: If you do not see anything running do the following
