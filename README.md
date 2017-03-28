@@ -36,7 +36,7 @@ We have gone ahead and taken care of the download process, just follow these ste
 - Step 2:
 For Windows: Execute the File `installNecessities.bat` (Just Double Click the file)
 For Mac/Linux: Execute the File `installNecessities.sh` (Just Double Click the file)
--Step 3: If you do not see anything running do the following
+- Step 3: If you do not see anything running do the following
 Open up "Terminal" and execute following commands
 ```sh
 $ cd Desktop # or which ever Directory you placed it in
