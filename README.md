@@ -26,6 +26,7 @@ Expected output (Don't Worry about the .10)
 Python 2.7 Install link: https://www.python.org/downloads/release/python-2713/
 - Step 1: Find Correct OS Download File (MAC, WINDOWS, etc.)
 - Step 2: Download and follow installation steps
+- Step 3 (Windows): Add to Path Variable http://stackoverflow.com/questions/7054424/python-not-recognised-as-a-command
 - Video tutorial for windows: https://www.youtube.com/watch?v=gD4eulxGNok
 
 
