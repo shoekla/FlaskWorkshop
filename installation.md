@@ -1,5 +1,3 @@
-
-
 This workshop requires some python libraries and pip.  
 Let's first install python 2.7 and then you can leave the rest up to us.
 
@@ -42,9 +40,9 @@ We have gone ahead and taken care of the download process, just follow these ste
   Now try executing your `installNecessities` file  
   If problem persists please contact one of the organizers immediately.
 
-* Step 4: while running the "installNecessities" file Observe the following
-  After the line that prints out "TESTING INSTALLATION ---------------------------"
-  check if all the installations passed and if you get the "All Good" message,
+* Step 4: while running the "installNecessities" file Observe the following  
+  After the line that prints out "TESTING INSTALLATION ---------------------------"  
+  check if all the installations passed and if you get the "All Good" message,  
   if you do not see this or see the "TEST FAILED CALL ORGANIZER", contact an organizer.
 
 
