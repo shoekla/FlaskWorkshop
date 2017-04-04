@@ -1,9 +1,9 @@
 echo "Installing Necessities for Flask Workshop\n"
-python getpip.py
-pip install flask
-pip install requests
-pip install bs4
-pip install BeautifulSoup
+sudo python getpip.py
+sudo pip install flask
+sudo pip install requests
+sudo pip install bs4
+sudo pip install BeautifulSoup
 
 
 echo "TESTING INSTALLATION ---------------------------\n"
