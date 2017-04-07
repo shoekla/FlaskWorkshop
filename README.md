@@ -53,7 +53,9 @@ check if all the installations passed and if you get the "All Good" message,
 if you do not see this or see the "TEST FAILED CALL ORGANIZER", contact an organizer.
 
 - Step 5: Install Sublime Text
+
 Download and Follow Steps to install Sublime Text
+
 Download Link: https://www.sublimetext.com/3
 
 
