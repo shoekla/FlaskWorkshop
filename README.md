@@ -52,6 +52,9 @@ After the line that prints out "TESTING INSTALLATION ---------------------------
 check if all the installations passed and if you get the "All Good" message,
 if you do not see this or see the "TEST FAILED CALL ORGANIZER", contact an organizer.
 
+- Step 5: Install Sublime Text
+Download and Follow Steps to install Sublime Text
+Download Link: https://www.sublimetext.com/3
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
